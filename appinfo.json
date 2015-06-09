@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "PixelSoup",
+    "longName": "TimeColor",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "TimeColor",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "41e7b714-0085-4eac-ac96-2c0941a18921",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
